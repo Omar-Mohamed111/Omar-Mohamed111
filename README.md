@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Hamed</h1>
 
 <h3 align="center">
-💻 Front-End Developer | React.js Developer | Egypt 🇪🇬
+💻 Full-Stack Developer | React.js | Node.js |Egypt 🇪🇬
 </h3>
 
 <p align="center">
