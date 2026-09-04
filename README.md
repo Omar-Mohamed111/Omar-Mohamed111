@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full-stack+Developer;React.js+Developer;Responsive+Web+Designer;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React.js+Developer;Node.js+Developer;Responsive+Web+Designer;Always+Learning+New+Things..." />
 </p>
 
 ---
