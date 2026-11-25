@@ -1,23 +1,32 @@
-# Hi 👋, I'm Omar Hamed
+<!-- Animated Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Omar%20Hamed&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20TypeScript&descAlignY=58&descSize=17" />
 
-### Backend Developer | Node.js | Express.js | TypeScript | Egypt 🇪🇬
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+RESTful+APIs;Node.js+%7C+Express.js+%7C+TypeScript;Always+Learning+%26+Building" alt="Typing SVG" />
 
-I'm a Backend Developer passionate about building RESTful APIs, designing backend systems, and solving real-world problems through code.
-
-I focus on developing secure and maintainable backend applications, with hands-on experience gained through independent projects and continuous learning.
+  <p>
+    <a href="https://github.com/Omar-Mohamed111">
+      <img src="https://img.shields.io/badge/GitHub-Omar--Mohamed111-181717?style=for-the-badge&logo=github" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Egypt-239B56?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Building backend applications and RESTful APIs using Node.js, Express.js, and TypeScript.
-- 🗄️ Working with MongoDB, Mongoose, PostgreSQL, and Redis.
-- 🔐 Implementing authentication, authorization, JWT, Google OAuth, and Role-Based Access Control (RBAC).
-- ⚙️ Learning and applying OOP, Design Patterns, Dependency Injection, and Clean Architecture concepts.
+I'm a Backend Developer passionate about building RESTful APIs, designing backend systems, and solving real-world problems through code.
+
+I focus on developing secure and maintainable backend applications, with hands-on experience gained through independent projects and continuous learning.
+
+- 🔭 Building backend applications using **Node.js, Express.js, and TypeScript**.
+- 🗄️ Working with **MongoDB, Mongoose, PostgreSQL, and Redis**.
+- 🔐 Implementing authentication, authorization, JWT, Google OAuth, and RBAC.
+- ⚙️ Applying OOP, Design Patterns, Dependency Injection, and Clean Architecture concepts.
 - ☁️ Exploring AWS services, including S3, Lambda, and IAM.
-- 🌱 Continuously improving my backend development and software engineering skills.
-- 🎯 Looking for a Backend Developer Internship or Junior Backend Developer opportunity.
-- 📍 Based in Egypt 🇪🇬
+- 🎯 Looking for a **Backend Developer Internship or Junior Backend Developer** opportunity.
+- 📍 Egypt 🇪🇬
 
 ---
 
@@ -33,7 +42,7 @@ I focus on developing secure and maintainable backend applications, with hands-o
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 </p>
 
-### Cloud & Tools
+### Cloud & Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
 </p>
@@ -42,25 +51,29 @@ I focus on developing secure and maintainable backend applications, with hands-o
 
 ## 🧠 Concepts & Technical Skills
 
+<p>
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/RBAC-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=flat-square&logo=redis" />
+</p>
+
 - Object-Oriented Programming (OOP)
 - Design Patterns
-- Clean Architecture Concepts
 - Dependency Injection
-- RESTful API Design
+- Clean Architecture Concepts
 - Authentication & Authorization
-- Role-Based Access Control (RBAC)
 - Database Design & Operations
-- Redis Caching
-- Request Validation
-- Error Handling
-- Modular Backend Architecture
-- Git & GitHub
+- Request Validation & Error Handling
+- Modular Controller-Service-Repository Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Learnova – Online Learning Platform
+### 🎓 Learnova – Online Learning Platform
 
 A full-stack online learning platform with a backend built using Node.js, Express.js, TypeScript, MongoDB, and Redis.
 
@@ -73,13 +86,17 @@ A full-stack online learning platform with a backend built using Node.js, Expres
 - Redis Caching and Request Idempotency.
 - Reviews, Ratings, and Admin Dashboard.
 
-🔗 [View Repository](https://github.com/Omar-Mohamed111/Learnova-Online-Learning-Platform)
+<a href="https://github.com/Omar-Mohamed111/Learnova-Online-Learning-Platform">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" />
+</a>
 
-### 2. Mini E-Commerce API
+### 🛒 Mini E-Commerce API
 
 A backend project focused on building e-commerce API functionality and practicing backend development concepts.
 
-🔗 [View Repository](https://github.com/Omar-Mohamed111/Mini-E-Commerce)
+<a href="https://github.com/Omar-Mohamed111/Mini-E-Commerce">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
@@ -92,11 +109,29 @@ A backend project focused on building e-commerce API functionality and practicin
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-- **GitHub:** [Omar-Mohamed111](https://github.com/Omar-Mohamed111)
-- **LinkedIn:** Add your LinkedIn profile URL here.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-Mohamed111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mohamed111&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Mohamed111&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
-<h3 align="center">⭐ Always Learning, Building, and Improving ⭐</h3>
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Omar-Mohamed111">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Add your LinkedIn profile URL here -->
+</p>
+
+<div align="center">
+  <h3>⭐ Always Learning, Building, and Improving ⭐</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" />
+</div>
